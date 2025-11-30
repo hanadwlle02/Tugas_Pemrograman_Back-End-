@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplikasi CRUD Produk – PHP OOP & PDO  
 **Mata Kuliah:** Pemrograman Back-End  
 **Nama:** Kadek Hana Dwi Lestari <br>
@@ -158,3 +159,6 @@ http://localhost:8000/index.php
 - Tombol memunculkan konfirmasi
 - Data terhapus dari database
 - File gambar dalam folder /uploads/ ikut dihapus
+=======
+# Tugas_Pemrograman_Back-End-
+>>>>>>> 9020d27775a49d3ff39c9ab2e8f77d5241c7d559
