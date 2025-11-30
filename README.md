@@ -53,21 +53,22 @@ Fitur utama aplikasi:
 projecthana/
 │
 ├── config/
-│ └── Database.php
+│   └── Database.php
 │
 ├── classes/
-│ └── Produk.php
+│   └── Produk.php
 │
 ├── public/
-│ ├── index.php
-│ ├── tambah_produk.php
-│ ├── edit_produk.php
-│ ├── hapus_produk.php
-│ ├── uploads/
-│ │ └── (gambar produk)
+│   ├── index.php
+│   ├── tambah_produk.php
+│   ├── edit_produk.php
+│   ├── hapus_produk.php
+│   └── uploads/
+│        └── (gambar produk)
 │
 └── sql/
-└── project_hana.sql
+    └── project_hana.sql
+
 
 ---
 
