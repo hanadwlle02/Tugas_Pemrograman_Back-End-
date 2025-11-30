@@ -49,7 +49,7 @@ Fitur utama aplikasi:
 ---
 
 ## 4. Struktur Folder
-
+ ```
 projecthana/
 │
 ├── config/
@@ -69,7 +69,7 @@ projecthana/
 └── sql/
     └── project_hana.sql
 
-
+```
 ---
 
 ## 5. Penjelasan Class Utama
