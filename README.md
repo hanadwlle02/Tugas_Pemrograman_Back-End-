@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Aplikasi CRUD Produk – PHP OOP & PDO  
 **Mata Kuliah:** Pemrograman Back-End  
 **Nama:** Kadek Hana Dwi Lestari <br>
